@@ -11,5 +11,6 @@ main {
     background-color: aliceblue;
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 5px rgba(92, 91, 91, 0.158);
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
 }
